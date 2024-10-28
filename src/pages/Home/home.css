@@ -1,0 +1,7 @@
+/*Home*/
+input.is-invalid::placeholder{
+    color: crimson;
+}
+.test{
+    min-height: 76vh;
+}

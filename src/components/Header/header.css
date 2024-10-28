@@ -1,0 +1,12 @@
+/*Header*/
+.header{
+    background:cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_title{
+    font-size:35px;
+    font-weight:600;
+    color:#fff;
+}

@@ -1,0 +1,15 @@
+/*Footer*/
+.footer{
+    background-color: cornflowerblue;
+    color: white !important;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size:18px;
+}
+.footer_link{
+    color: #fff !important;
+    text-decoration: none !important;
+}
